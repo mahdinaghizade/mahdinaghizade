@@ -1,15 +1,26 @@
-### Hi there 👋
-
-
-
-this is me : mahdi naghizadeh
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+### Hi there i am  mahdi naghizadeh  👋
 
 
 
 
+- 🔭 favorite to learn about web programmer languaje
+- 🌱 try to export in my work
+- 📫 web Designiner with bootsrap / tailwind / css/ scass
+- ⚡ java script and frame work of that like jqueary and React
+- 🤔 wordpress
+ 
 
 
+
+
+
+
+
+
+<!--
+**mahdinaghizade/mahdinaghizade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,13 +30,9 @@ this is me : mahdi naghizadeh
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!--
-**mahdinaghizade/mahdinaghizade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ I’m web developer
+- 🌱 I’m currently learning about programe=mer languaje
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
